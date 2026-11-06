@@ -1,0 +1,1 @@
+ZIP dosyasini ayiklayin ve index.html dosyasini acin. 20 kapak HTML icine gomuludur. 18 sarki butonu kullanicinin verdigi dogrudan YouTube video linkine gider. Karanlik Toz ve Arkamdan Vuranlar Kulubu icin dogrudan link verilmediginden YouTube arama baglantisi korunmustur. Support: scampexhaus@gmail.com (mailto).
